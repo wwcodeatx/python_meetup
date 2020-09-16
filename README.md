@@ -18,6 +18,8 @@ Session 1 (2020/07) - https://tinyurl.com/yc83lrlk
 
 Session 2 (2020/08) - https://tinyurl.com/yyc77xe7
 
+Session 3 (2020/09) - https://tinyurl.com/y5tlf6za
+
 # Past meetup materials
 ### Intro to python
 
