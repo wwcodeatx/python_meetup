@@ -38,9 +38,13 @@ https://colab.research.google.com/drive/1TA7iO0M1xqIJRWVXJgEA2uxRoGySYJuJ?usp=sh
 https://colab.research.google.com/drive/17uqE-uhW2_bzGxFA-5ZiCDWpmuhlBaxu?usp=sharing
 
 ### Other material and resources
-• https://nimbinatus.github.io/BeginnerCodersWWCATX/
-• http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
-• https://docs.python.org/3/tutorial/index.html
-• https://www.youtube.com/watch?v=_uQrJ0TkZlc
-• https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+https://nimbinatus.github.io/BeginnerCodersWWCATX/
+
+http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
+
+https://docs.python.org/3/tutorial/index.html
+
+https://www.youtube.com/watch?v=_uQrJ0TkZlc
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
 
