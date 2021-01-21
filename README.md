@@ -20,7 +20,9 @@ Session 2 (2020/08) - https://tinyurl.com/yyc77xe7
 
 Session 3 (2020/09) - https://tinyurl.com/y5tlf6za
 
-Session 4 (2021/01) - https://colab.research.google.com/drive/1AYHAkQ1ZaHYcdUhX_9AkHIzNBhdZ7Q77?usp=sharing
+Session 4 (2020/10) - https://colab.research.google.com/drive/1w4QVXwtqfWf7umt8LkhF6HuQtpr3pB2m?usp=sharing
+
+Session 5 (2021/01) - https://colab.research.google.com/drive/1AYHAkQ1ZaHYcdUhX_9AkHIzNBhdZ7Q77?usp=sharing
 
 # Past meetup materials
 ### Intro to python
