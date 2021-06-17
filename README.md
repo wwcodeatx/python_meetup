@@ -42,6 +42,10 @@ Session 4 - https://colab.research.google.com/drive/1xtixB4DKtWQO9_VKoHUqeBWdFIu
 
 (2020/06) https://colab.research.google.com/drive/17uqE-uhW2_bzGxFA-5ZiCDWpmuhlBaxu?usp=sharing
 
+(2021/05) https://colab.research.google.com/drive/1XHhT1V2u7P2xnschJIDtbyO6zQxwsbd1?usp=sharing
+
+(2021/06) https://colab.research.google.com/drive/1AB5MOkZKDQe2a3VsYiexDYIurtr7y3VX?usp=sharing
+
 ### Other material and resources
 https://nimbinatus.github.io/BeginnerCodersWWCATX/
 
