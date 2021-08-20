@@ -46,7 +46,9 @@ Session 4 - https://colab.research.google.com/drive/1xtixB4DKtWQO9_VKoHUqeBWdFIu
 
 (2021/06) https://colab.research.google.com/drive/1AB5MOkZKDQe2a3VsYiexDYIurtr7y3VX?usp=sharing
 
-(2021/07) https://colab.research.google.com/drive/1Dcl-MkP22WlblNY4z3sfb0P8ga_03lQ6?usp=sharing
+(2021/07, about dictionary) https://colab.research.google.com/drive/1Dcl-MkP22WlblNY4z3sfb0P8ga_03lQ6?usp=sharing
+
+(2021/08, about trees) https://colab.research.google.com/drive/1FVVrdv3kiEhV7JDU2ljjjdcphbSOEg8i?usp=sharing
 
 ### Other material and resources
 https://nimbinatus.github.io/BeginnerCodersWWCATX/
