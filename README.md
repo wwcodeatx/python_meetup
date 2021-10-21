@@ -50,6 +50,10 @@ Session 4 - https://colab.research.google.com/drive/1xtixB4DKtWQO9_VKoHUqeBWdFIu
 
 (2021/08, about trees) https://colab.research.google.com/drive/1FVVrdv3kiEhV7JDU2ljjjdcphbSOEg8i?usp=sharing
 
+(2021/09, about recursion) https://colab.research.google.com/drive/1kWDK34XVFf_wkTGgPLszzi8890civ0mg?usp=sharing 
+
+(2021/10, about heap)https://colab.research.google.com/drive/1tzo9HzGxS13_MUcu44M7DmbxApHlogdV?usp=sharing
+
 ### Other material and resources
 https://nimbinatus.github.io/BeginnerCodersWWCATX/
 
